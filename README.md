@@ -25,7 +25,7 @@ de evidencia para los conocimientos necesarios para acreditar la mataria de Apli
 
 ---
 
-## [Flujo de Node Red]()
+## [Flujo de Node Red](https://github.com/MonseCastanon/UNIDAD-II-APLICACIONES-PARA-IOT/blob/main/Flujo%20de%20Node%20Red.json)
 
 
 ---
@@ -54,6 +54,11 @@ de evidencia para los conocimientos necesarios para acreditar la mataria de Apli
 | 18 | https://app.cirkitdesigner.com/project/57c607da-96de-4b6a-9003-97ecea462b3f ![circuit_image (21)](https://github.com/user-attachments/assets/5204be9d-f79f-4657-b815-07e3d45e32fc) | HC-SR04                                  | 9   |
 | 19 | https://app.cirkitdesigner.com/project/d7f6d74b-b856-4da9-98a9-85ac66ca702b ![circuit_image (23)](https://github.com/user-attachments/assets/7466fbdb-193a-42cc-8e5f-39e786f0870a) | Motor vibración                          | 9   |
 | 20 | https://app.cirkitdesigner.com/project/ed41e555-13cc-42dc-b1df-0dbbd75db50a ![circuit_image (2)](https://github.com/user-attachments/assets/41959b73-6304-4a47-aa27-1f1201686b09)  | Water Sensor                             | 9   |
+
+---
+
+## Cursos de NetaCad
+![NetaCad](https://github.com/user-attachments/assets/ba201436-ded2-4867-b8f3-c5d074e171c2)
 
 ---
 
