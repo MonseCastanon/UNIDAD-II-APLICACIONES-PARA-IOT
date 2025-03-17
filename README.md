@@ -2,11 +2,11 @@
 ---
 
 ## 📌 Información General  
-| **🔹 Campo**           | **📝 Información**                                  |
+| **🔹 Campo**           | **📝 Información**                           |
 |----------------------|-------------------------------------------------|
 | **👤 Nombre**        | Monserrat Guadalupe Castañon Sánchez           |
 | **📝 Grupo**        | GDS0653                                         |
-| **📚 Materia**      | Aplicaciones para IoT                         |
+| **📚 Materia**      | Aplicaciones para IoT                           |
 | **📖 Unidad**       | 2                          |
 
 ---
@@ -17,8 +17,20 @@ de evidencia para los conocimientos necesarios para acreditar la mataria de Apli
 
 ---
 
-## 🖼️ **Multimedia**  
-### 🎥 Videos Explicativos
+## 🎥 [Videos Explicativos](https://drive.google.com/drive/folders/1DkxIYKwmhQ8pdreH8UbVOH7VufQzy7D5?usp=drive_link)
+
+---
+
+## 🐍 [Códigos en Python](https://github.com/MonseCastanon/UNIDAD-II-APLICACIONES-PARA-IOT/tree/main/C%C3%B3digo%20sensores)
+
+---
+
+## [Flujo de Node Red]()
+
+
+---
+
+## Diagramas de conexión
 
 | #  | Imagen                               | Sensor                                   | Sesión |
 |----|--------------------------------------|------------------------------------------|-----|
@@ -42,10 +54,6 @@ de evidencia para los conocimientos necesarios para acreditar la mataria de Apli
 | 18 | https://app.cirkitdesigner.com/project/57c607da-96de-4b6a-9003-97ecea462b3f ![circuit_image (21)](https://github.com/user-attachments/assets/5204be9d-f79f-4657-b815-07e3d45e32fc) | HC-SR04                                  | 9   |
 | 19 | https://app.cirkitdesigner.com/project/d7f6d74b-b856-4da9-98a9-85ac66ca702b ![circuit_image (23)](https://github.com/user-attachments/assets/7466fbdb-193a-42cc-8e5f-39e786f0870a) | Motor vibración                          | 9   |
 | 20 | https://app.cirkitdesigner.com/project/ed41e555-13cc-42dc-b1df-0dbbd75db50a ![circuit_image (2)](https://github.com/user-attachments/assets/41959b73-6304-4a47-aa27-1f1201686b09)  | Water Sensor                             | 9   |
-
----
-
-## 🐍 **Códigos en Python**  
 
 ---
 
