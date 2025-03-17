@@ -11,11 +11,7 @@
 
 ---
 
-## 🎯 **Objetivo**  
-✍️ *El objetivo de este repositorio es mostrar la funcionalidad y la creación del código en pyhton para la realización de videos
-de evidencia para los conocimientos necesarios para acreditar la mataria de Aplicaciones para IoT*
 
----
 
 ## 🎥 [Videos Explicativos](https://drive.google.com/drive/folders/1DkxIYKwmhQ8pdreH8UbVOH7VufQzy7D5?usp=drive_link)
 
