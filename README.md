@@ -23,6 +23,10 @@
 
 ## [Flujo de Node Red](https://github.com/MonseCastanon/UNIDAD-II-APLICACIONES-PARA-IOT/blob/main/Flujo%20de%20Node%20Red.json)
 
+---
+
+## Placa
+<img src="https://github.com/user-attachments/assets/a53b1f16-b6bb-4d3b-8ece-9f7b137cd826" width=500>
 
 ---
 
